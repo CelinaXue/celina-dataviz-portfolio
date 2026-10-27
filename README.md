@@ -14,22 +14,14 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hi!  My name is Celina Xue, currently a first-year master student in the program of Information Systems Management. I graduated from McGill University, so anyone like Montreal? 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Choose the right chart to communicate different types of data
+2. Use color, layout, and annotations to highlight key findings
+3. Turn complex data into clear and engaging stories
+4. Recognize misleading visualizations and avoid them in my own work
+5. Build a portfolio and develop skills I can use in a future career in business analytics or technology consulting
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
